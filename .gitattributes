@@ -1,0 +1,6 @@
+# Tell GitHub this project is in Dart
+*.dart linguist-language=Dart
+
+# Ignore built web files (from Flutter web builds)
+/web/* linguist-detectable=false
+/build/* linguist-detectable=false

@@ -1,8 +1,8 @@
-🚧 Project Status — Actively in Development
+🚀 My E-Commerce Flutter App — Actively in Development
 
-This application is in active development. It is designed to be a scalable, production-ready E-Commerce app built with Flutter (Clean Architecture + GetX) and connected to a PHP + MySQL backend with Firebase integrations.
+This is a scalable, production-ready E-Commerce application built with Flutter (Clean Architecture + GetX) and connected to a PHP + MySQL backend with Firebase integrations.
 
-The frontend is fully structured and functional, and the backend is being developed in a separate environment and integrated step-by-step.
+The frontend is fully structured and functional, while the backend is being developed separately and integrated step by step.
 
 ✅ Completed Features
 🔐 Authentication System
@@ -21,9 +21,11 @@ GetX Middleware protection
 
 Input validation
 
-Dark / Light theme support
+🎨 UI/UX & Theme
 
 Smooth UI/UX with custom widgets
+
+Lottie animations for interactive and engaging screens ✅
 
 🧱 App Architecture & Infrastructure
 
@@ -35,7 +37,7 @@ MVC + Repository Pattern
 
 Modular folder structure for large projects
 
-Network Layer (API Client + request status handler)
+Network Layer (API Client + Request Status Handler)
 
 Global services initialization
 
@@ -49,9 +51,9 @@ Error handling & loading indicators
 
 🌐 Backend Development (PHP + MySQL)
 
-⚠️ Note: Backend code is not included in this repository, but it is already partially implemented and will be integrated later.
+⚠️ Note: Backend code is not included in this repository but is partially implemented and will be integrated later.
 
-Backend Features Implemented
+Implemented Features
 
 RESTful API (PHP)
 
@@ -69,7 +71,7 @@ Unified JSON response system
 
 Token validation
 
-Backend Features Planned
+Planned Features
 
 Categories API
 
@@ -159,4 +161,3 @@ REST API design
 Firebase authentication & services
 
 Localization and UI/UX best practices
-

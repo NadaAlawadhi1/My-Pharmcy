@@ -1,6 +1,6 @@
-# 🚀 My E-Commerce Flutter App — Actively in Development
+# 🚀 My Pharmcy Flutter App — Actively in Development
 
-This is a **scalable, production-ready E-Commerce application** built with **Flutter (Clean Architecture + GetX)** and connected to a **PHP + MySQL backend** with **Firebase integrations**.  
+This is a ** Pharmcy application** built with **Flutter (Clean Architecture + GetX)** and connected to a **PHP + MySQL backend** with **Firebase integrations**.  
 
 The **frontend** is fully structured and functional, while the **backend** is being developed separately and integrated step by step.
 

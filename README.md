@@ -4,7 +4,101 @@ This is a **scalable, production-ready E-Commerce application** built with **Flu
 
 The **frontend** is fully structured and functional, while the **backend** is being developed separately and integrated step by step.
 
+--- 
+
+## 📱 App Screenshots
+
+Below is a preview of the app, including onboarding, authentication, language support (Arabic & English), password recovery, home screen, and Google login.
+
+<div align="center">
+
 ---
+
+### 🌍 **Onboarding Screens (English & Arabic)**
+
+<img src="screenshots/Langs.png" width="150"/>
+
+<br/>
+
+<img src="screenshots/Onboarding-E1.png" width="150"/>
+<img src="screenshots/Onboarding-A1.png" width="150"/>
+<img src="screenshots/Onboarding-E2.png" width="150"/>
+<img src="screenshots/Onboarding-A2.png" width="150"/>
+
+<br/>
+
+<img src="screenshots/Onboarding-A3.png" width="150"/>
+<img src="screenshots/Onboarding-E3.png" width="150"/>
+<img src="screenshots/Onboarding-A4.png" width="150"/>
+<img src="screenshots/Onboarding-E4.png" width="150"/>
+
+---
+
+### ⏳ **Loading Animation**
+<img src="screenshots/0.png" width="150"/>
+
+---
+
+### 🔐 **Sign Up → OTP → Sign In Flow**
+<img src="screenshots/1.png" width="150"/>
+<img src="screenshots/2.png" width="150"/>
+<img src="screenshots/3.png" width="150"/>
+<img src="screenshots/4.png" width="150"/>
+<br/>
+<img src="screenshots/5.png" width="150"/>
+<img src="screenshots/6.png" width="400" height="500"/>
+<img src="screenshots/7.png" width="150"/>
+<img src="screenshots/8.png" width="150"/>
+
+> Includes OTP verification, resend code, real email messages, loading indicators, and error handling.
+
+---
+
+### 👤 **Sign In + Error Handling**
+<img src="screenshots/9.png" width="150"/>
+<img src="screenshots/11.png" width="150"/>
+<img src="screenshots/22.png" width="150"/>
+<img src="screenshots/33.png" width="150"/>
+<img src="screenshots/44.png" width="150"/>
+
+> Errors appear when internet/server is down. Global red internet bar is shown when offline.
+
+---
+
+### 🔑 **Forget Password → OTP → Reset Password**
+<img src="screenshots/55.png" width="150"/>
+<img src="screenshots/66.png" width="150"/>
+<img src="screenshots/77.png" width="150"/>
+<img src="screenshots/88.png" width="150"/>
+<img src="screenshots/99.png" width="150"/>
+<br/>
+<img src="screenshots/111.png" width="150"/>
+<img src="screenshots/222.png" width="150"/>
+
+> Includes validation, OTP resend, and Lottie animations.
+
+---
+
+### 🔵 **Google Login**
+<img src="screenshots/333.png" width="150"/>
+<img src="screenshots/444.png" width="150"/>
+---
+
+
+> 📝 **Notes**
+> 
+> **• Full Arabic + English Support:**  
+> Only the onboarding screenshots include Arabic, but the *entire app* is fully localized (EN + AR) with complete RTL support.
+>
+> **• Offline & Server Errors:**  
+> The app has full error handling for no-internet and server-down states.  
+> A global red offline bar appears across the whole app, even if only a few example screenshots are shown here.
+
+</div>
+
+
+--- 
+
 
 ## ✅ Completed Features
 
@@ -13,14 +107,12 @@ The **frontend** is fully structured and functional, while the **backend** is be
 - Google Authentication  
 - OTP Verification (Email)  
 - Forget Password + Reset Password  
-- Token-based validation  
 - GetX Middleware protection  
 - Input validation  
 
 ---
 
 ### 🎨 UI/UX & Theme
-- Dark / Light theme support  
 - Smooth UI/UX with custom widgets  
 - Lottie animations for interactive and engaging screens ✅  
 

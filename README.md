@@ -1,4 +1,4 @@
-# 🚀 My Pharmacy Flutter App — Actively in Development
+#  💊 My Pharmacy Flutter App — Actively in Development
 
 **My Pharmacy** is a scalable **Flutter application** built with **Clean Architecture + GetX** and connected to a **PHP + MySQL backend** with **Firebase integrations**.  
 

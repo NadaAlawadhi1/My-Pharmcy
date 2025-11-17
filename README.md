@@ -1,21 +1,20 @@
-# 🚀 My Pharmcy Flutter App — Actively in Development
+# 🚀 My Pharmacy Flutter App — Actively in Development
 
-This is a ** Pharmcy application** built with **Flutter (Clean Architecture + GetX)** and connected to a **PHP + MySQL backend** with **Firebase integrations**.  
+**My Pharmacy** is a scalable **Flutter application** built with **Clean Architecture + GetX** and connected to a **PHP + MySQL backend** with **Firebase integrations**.  
 
-The **frontend** is fully structured and functional, while the **backend** is being developed separately and integrated step by step.
+The **frontend** is fully structured and functional, while the **backend** is being developed incrementally and integrated step by step.
 
---- 
+---
 
 ## 📱 App Screenshots
 
-Below is a preview of the app, including onboarding, authentication, language support (Arabic & English), password recovery, home screen, and Google login.
+Below is a preview of the app, showcasing **onboarding, authentication, language support (English & Arabic), password recovery, home screen, and Google login**.
 
 <div align="center">
 
 ---
 
-### 🌍 **Onboarding Screens (English & Arabic)**
-
+### 🌍 Onboarding Screens (English & Arabic)
 <img src="screenshots/Langs.png" width="150"/>
 
 <br/>
@@ -34,12 +33,12 @@ Below is a preview of the app, including onboarding, authentication, language su
 
 ---
 
-### ⏳ **Loading Animation**
+### ⏳ Loading Animation
 <img src="screenshots/0.png" width="150"/>
 
 ---
 
-### 🔐 **Sign Up → OTP → Sign In Flow**
+### 🔐 Sign Up → OTP → Sign In Flow
 <img src="screenshots/1.png" width="150"/>
 <img src="screenshots/2.png" width="150"/>
 <img src="screenshots/3.png" width="150"/>
@@ -50,22 +49,22 @@ Below is a preview of the app, including onboarding, authentication, language su
 <img src="screenshots/7.png" width="150"/>
 <img src="screenshots/8.png" width="150"/>
 
-> Includes OTP verification, resend code, real email messages, loading indicators, and error handling.
+> Includes OTP verification, code resend, real email messages, loading indicators, and error handling.
 
 ---
 
-### 👤 **Sign In + Error Handling**
+### 👤 Sign In + Error Handling
 <img src="screenshots/9.png" width="150"/>
 <img src="screenshots/11.png" width="150"/>
 <img src="screenshots/22.png" width="150"/>
 <img src="screenshots/33.png" width="150"/>
 <img src="screenshots/44.png" width="150"/>
 
-> Errors appear when internet/server is down. Global red internet bar is shown when offline.
+> Displays errors when internet/server is down. A global red offline bar is shown when disconnected.
 
 ---
 
-### 🔑 **Forget Password → OTP → Reset Password**
+### 🔑 Forget Password → OTP → Reset Password
 <img src="screenshots/55.png" width="150"/>
 <img src="screenshots/66.png" width="150"/>
 <img src="screenshots/77.png" width="150"/>
@@ -75,30 +74,27 @@ Below is a preview of the app, including onboarding, authentication, language su
 <img src="screenshots/111.png" width="150"/>
 <img src="screenshots/222.png" width="150"/>
 
-> Includes validation, OTP resend, and Lottie animations.
+> Includes input validation, OTP resend, and Lottie animations.
 
 ---
 
-### 🔵 **Google Login**
+### 🔵 Google Login
 <img src="screenshots/333.png" width="150"/>
 <img src="screenshots/444.png" width="150"/>
+
 ---
 
-
 > 📝 **Notes**
-> 
+>
 > **• Full Arabic + English Support:**  
-> Only the onboarding screenshots include Arabic, but the *entire app* is fully localized (EN + AR) with complete RTL support.
+> Entire app is localized (EN + AR) with complete RTL support.
 >
 > **• Offline & Server Errors:**  
-> The app has full error handling for no-internet and server-down states.  
-> A global red offline bar appears across the whole app, even if only a few example screenshots are shown here.
+> Full error handling for no-internet and server-down states; a global red offline bar is displayed app-wide.
 
 </div>
 
-
---- 
-
+---
 
 ## ✅ Completed Features
 
@@ -107,20 +103,20 @@ Below is a preview of the app, including onboarding, authentication, language su
 - Google Authentication  
 - OTP Verification (Email)  
 - Forget Password + Reset Password  
-- GetX Middleware protection  
+- **GetX Middleware Protection**  
 - Input validation  
 
 ---
 
 ### 🎨 UI/UX & Theme
-- Smooth UI/UX with custom widgets  
+- Smooth UI/UX with **custom widgets**  
 - Lottie animations for interactive and engaging screens ✅  
 
 ---
 
 ## 🧱 App Architecture & Infrastructure
-- Feature-Based Clean Architecture  
-- GetX for State Management, Routing & Dependency Injection  
+- **Feature-Based Clean Architecture**  
+- **GetX** for State Management, Routing & Dependency Injection  
 - MVC + Repository Pattern  
 - Modular folder structure for large projects  
 - Network Layer (API Client + Request Status Handler)  
@@ -133,7 +129,7 @@ Below is a preview of the app, including onboarding, authentication, language su
 ---
 
 ## 🌐 Backend Development (PHP + MySQL)
-> ⚠️ Note: Backend code is not included in this repository but is partially implemented and will be integrated later.
+> ⚠️ Note: Backend code is not included but partially implemented and will be integrated later.
 
 ### Implemented Features
 - RESTful API (PHP)  
@@ -196,7 +192,7 @@ Below is a preview of the app, including onboarding, authentication, language su
 
 ## 📌 Note to Employers / Recruiters
 This project demonstrates my ability to work with:  
-- Flutter + Clean Architecture + GetX  
+- Flutter + Clean Architecture + **GetX**  
 - Modular and scalable codebases  
 - Secure authentication systems  
 - Backend integration (PHP + MySQL)  

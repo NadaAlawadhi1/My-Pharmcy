@@ -190,7 +190,7 @@ Below is a preview of the app, showcasing **onboarding, authentication, language
 
 ---
 
-## 📌 Note to Employers / Recruiters
+## 📌 Note 
 This project demonstrates my ability to work with:  
 - Flutter + Clean Architecture + **GetX**  
 - Modular and scalable codebases  
